@@ -32,6 +32,6 @@ projects: []
 publishDate: '2022-07-17T16:23:38.136936Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Popular network models such as the mixed membership and standard stochastic block model are known to exhibit distinct geometric structure when embedded into {{< math >}}$\mathbb{R}^d${{< /math >}} using spectral methods. The resulting point cloud concentrates around a simplex in the first model, whereas it separates into clusters in the second. By adopting the formalism of generalised random dot-product graphs, we demonstrate that both of these models, and different mixing regimes in the case of mixed membership, may be distinguished by the persistent homology of the underlying point distribution in the case of adjacency spectral embedding. Moreover, despite non-identifiability issues, we show that the persistent homology of the support of the distribution and its super-level sets can be consistently estimated. As an application of our consistency results, we provide a topological hypothesis test for distinguishing the standard and mixed membership stochastic block models.'
 publication: '*arXiv preprint arXiv:1912.10238*'
 ---
