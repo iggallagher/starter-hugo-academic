@@ -4,19 +4,19 @@
 widget: pages
 
 # This file represents a page section.
-headless: ture
+headless: true
 
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: Software
+subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - talks
+      - software
     tag: ''
     category: ''
     publication_type: ''
@@ -36,4 +36,6 @@ design:
   columns: '2'
 ---
 
-- International Conference on Computational Statistics (COMPSTAT 2022), Bologna, Italy, August 2022. [Spectral embedding of weighted graphs](http://www.cmstatistics.org/RegistrationsV2/COMPSTAT2022/viewSubmission.php?in=379&token=r7ro998nr741p5o64r6r2qp67o286n48).
+I have written a Python package for graph spectral embedding available at the GitHub repository, [Spectral-Embedding](https://github.com/iggallagher/Spectral-Embedding).
+
+The package includes a variety of tools for spectral embedding of graphs, using the theory of the generalised random dot product graph and its many extensions to analyse networks.

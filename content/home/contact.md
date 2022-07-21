@@ -21,6 +21,13 @@ content:
   # Contact details (edit or remove options as required)
   email: ian.gallagher@bristol.ac.uk
 
+  address:
+    street: Office GA.09, Fry Building, School of Mathematics, University of Bristol
+    city: Bristol, UK
+    postcode: 'BS8 1TW'
+    country: United Kingdom
+    country_code: UK
+
 design:
   columns: '2'
 ---

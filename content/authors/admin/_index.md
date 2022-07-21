@@ -63,4 +63,6 @@ email: ''
 highlight_name: true
 ---
 
-Ian Gallagher is a PhD student in Statistics at the School of Mathematics, University of Bristol. His research interests include using graph embeddings to find interesting structure in real-world networks.
+I am a PhD student in Statistics at the School of Mathematics, University of Bristol supervised by [Prof. Patrick Rubin-Delanchy](https://people.maths.bris.ac.uk/~pr12244/).
+
+My research interests include using graph embeddings to find interesting structure in real-world networks.
