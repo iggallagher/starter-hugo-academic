@@ -6,7 +6,7 @@ title: Ian Gallagher
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Statistics
+role: Heilbronn Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,6 +63,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in Statistics at the School of Mathematics, University of Bristol supervised by [Prof. Patrick Rubin-Delanchy](https://people.maths.bris.ac.uk/~pr12244/).
+I am a Data Science Research Fellow at the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) at the School of Mathematics, University of Bristol, having completed my PhD supervised by [Prof. Patrick Rubin-Delanchy](https://people.maths.bris.ac.uk/~pr12244/).
 
 My research interests include using graph embeddings to find interesting structure in real-world networks.
