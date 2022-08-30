@@ -37,3 +37,5 @@ design:
 ---
 
 International Conference on Computational Statistics (COMPSTAT 2022), Bologna, Italy, August 2022. [Spectral embedding of weighted graphs](http://www.cmstatistics.org/RegistrationsV2/COMPSTAT2022/viewSubmission.php?in=379&token=r7ro998nr741p5o64r6r2qp67o286n48).
+
+Neural Information Processing Systems (NeurIPS 2021), Virtual, December 2012. [Spectral embedding for dynamic networks with stability guarantees](https://neurips.cc/virtual/2021/poster/28308).
