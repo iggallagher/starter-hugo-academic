@@ -63,6 +63,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Data Science Research Fellow at the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) at the School of Mathematics, University of Bristol, having completed my PhD supervised by [Prof. Patrick Rubin-Delanchy](https://people.maths.bris.ac.uk/~pr12244/).
+I am a Data Science Research Fellow at the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk). I completed my PhD at the School of Mathematics, University of Bristol supervised by [Prof. Patrick Rubin-Delanchy](https://people.maths.bris.ac.uk/~pr12244/).
 
 My research interests include using graph embeddings to find interesting structure in real-world networks.
