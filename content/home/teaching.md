@@ -4,19 +4,19 @@
 widget: pages
 
 # This file represents a page section.
-headless: ture
+headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 80
 
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: Teaching
+subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - talks
+      - teaching
     tag: ''
     category: ''
     publication_type: ''
@@ -36,8 +36,4 @@ design:
   columns: '2'
 ---
 
-Mathematical and Statistical Aspects of Security and Cybersecurity, Bristol, UK, May 2023. Spectral graph embedding for computer networks.
-
-International Conference on Computational Statistics (COMPSTAT 2022), Bologna, Italy, August 2022. [Spectral embedding of weighted graphs](http://www.cmstatistics.org/RegistrationsV2/COMPSTAT2022/viewSubmission.php?in=379&token=r7ro998nr741p5o64r6r2qp67o286n48).
-
-Neural Information Processing Systems (NeurIPS 2021), Virtual, December 2021. [Spectral embedding for dynamic networks with stability guarantees](https://neurips.cc/virtual/2021/poster/28308).
+[Statistical Machine Learning](https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=B11F192EDE66D7A00796888267B56A0A?ayrCode=22%2F23&unitCode=MATH30028), University of Bristol, 2022/23.
