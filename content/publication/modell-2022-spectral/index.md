@@ -34,5 +34,5 @@ publishDate: '2022-07-17T16:23:37.888121Z'
 publication_types:
 - '2'
 abstract: 'Spectral embedding finds vector representations of the nodes of a network, based on the eigenvectors of its adjacency or Laplacian matrix, and has found applications throughout the sciences. Many such networks are multipartite, meaning their nodes can be divided into groups and nodes of the same group are never connected. When the network is multipartite, this paper demonstrates that the node representations obtained via spectral embedding live near group-specific low-dimensional subspaces of a higher-dimensional ambient space. For this reason we propose a follow-on step after spectral embedding, to recover node representations in their intrinsic rather than ambient dimension, proving uniform consistency under a low-rank, inhomogeneous random graph model. Our method naturally generalizes bipartite spectral embedding, in which node representations are obtained by singular value decomposition of the biadjacency or bi-Laplacian matrix.'
-publication: [*arXiv preprint arXiv:2202.03945*](https://arxiv.org/abs/2202.03945)'
+publication: [*arXiv preprint*](https://arxiv.org/abs/2202.03945)'
 ---
