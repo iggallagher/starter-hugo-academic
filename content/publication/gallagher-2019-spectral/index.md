@@ -35,5 +35,5 @@ publishDate: '2022-07-17T16:23:37.630274Z'
 publication_types:
 - '2'
 abstract: 'This paper concerns the statistical analysis of a weighted graph through spectral embedding. Under a latent position model in which the expected adjacency matrix has low rank, we prove uniform consistency and a central limit theorem for the embedded nodes, treated as latent position estimates. In the special case of a weighted stochastic block model, this result implies that the embedding follows a Gaussian mixture model with each component representing a community. We exploit this to formally evaluate different weight representations of the graph using Chernoff information. For example, in a network anomaly detection problem where we observe a p-value on each edge, we recommend against directly embedding the matrix of p-values, and instead using threshold or log p-values, depending on network sparsity and signal strength.'
-publication: '*arXiv preprint arXiv:1910.05534*'
+publication: '[*Accepted for Journal of the American Statistical Association*](https://arxiv.org/abs/1910.05534)'
 ---

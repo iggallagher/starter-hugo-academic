@@ -36,6 +36,8 @@ design:
   columns: '2'
 ---
 
+Imperial Statistics Seminar, London, UK, June 2023. [Adjacency spectral embedding beyond unweighted, undirected networks](https://www.imperial.ac.uk/events/161848/tom-barrett-and-ian-gallagher/).
+
 Mathematical and Statistical Aspects of Security and Cybersecurity, Bristol, UK, May 2023. Spectral graph embedding for computer networks.
 
 International Conference on Computational Statistics (COMPSTAT 2022), Bologna, Italy, August 2022. [Spectral embedding of weighted graphs](http://www.cmstatistics.org/RegistrationsV2/COMPSTAT2022/viewSubmission.php?in=379&token=r7ro998nr741p5o64r6r2qp67o286n48).
