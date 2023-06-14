@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Intensity profile projection - a framework for continuous-time representation learning for dynamic networks
+title: Spectral embedding of weighted graphs
 subtitle: ''
 summary: ''
 authors:
-- Alexander Modell
 - Ian Gallagher
-- Emma Ceccherini
-- Nick Whiteley
+- Andrew Jones
+- Anna Bertiger
+- Carey Priebe
 - Patrick Rubin-Delanchy
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-07-17T17:23:38+01:00
+date: '2019-01-01'
+lastmod: 2022-07-17T17:23:37+01:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-17T16:23:37.888121Z'
+publishDate: '2022-07-17T16:23:37.630274Z'
 publication_types:
 - '2'
-abstract: 'We present a new algorithmic framework, Intensity Profile Projection, for learning continuous-time representations of the nodes of a dynamic network, characterised by a node set and a collection of instantaneous interaction events which occur in continuous time. Our framework consists of three stages: estimating the intensity functions underlying the interactions between pairs of nodes, e.g. via kernel smoothing; learning a projection which minimises a notion of intensity reconstruction error; and inductively constructing evolving node representations via the learned projection. We show that our representations preserve the underlying structure of the network, and are temporally coherent, meaning that node representations can be meaningfully compared at different points in time. We develop estimation theory which elucidates the role of smoothing as a bias-variance trade-off, and shows how we can reduce smoothing as the signal-to-noise ratio increases on account of the algorithm 'borrowing strength' across the network.'
-publication: '[arXiv preprint](https://arxiv.org/abs/2306.06155)'
+abstract: 'This paper concerns the statistical analysis of a weighted graph through spectral embedding. Under a latent position model in which the expected adjacency matrix has low rank, we prove uniform consistency and a central limit theorem for the embedded nodes, treated as latent position estimates. In the special case of a weighted stochastic block model, this result implies that the embedding follows a Gaussian mixture model with each component representing a community. We exploit this to formally evaluate different weight representations of the graph using Chernoff information. For example, in a network anomaly detection problem where we observe a p-value on each edge, we recommend against directly embedding the matrix of p-values, and instead using threshold or log p-values, depending on network sparsity and signal strength.'
+publication: '[Accepted for Journal of the American Statistical Association](https://arxiv.org/abs/1910.05534)'
 ---

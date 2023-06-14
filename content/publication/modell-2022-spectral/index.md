@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spectral embedding and the latent geometry of multipartite networks
+title: Spectral embedding of weighted graphs
 subtitle: ''
 summary: ''
 authors:
-- Alexander Modell
 - Ian Gallagher
-- Joshua Cape
+- Andrew Jones
+- Anna Bertiger
+- Carey Priebe
 - Patrick Rubin-Delanchy
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-07-17T17:23:38+01:00
+date: '2019-01-01'
+lastmod: 2022-07-17T17:23:37+01:00
 featured: false
 draft: false
 
@@ -30,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-17T16:23:37.888121Z'
-#publication_types:
-#- '2'
-abstract: 'Spectral embedding finds vector representations of the nodes of a network, based on the eigenvectors of its adjacency or Laplacian matrix, and has found applications throughout the sciences. Many such networks are multipartite, meaning their nodes can be divided into groups and nodes of the same group are never connected. When the network is multipartite, this paper demonstrates that the node representations obtained via spectral embedding live near group-specific low-dimensional subspaces of a higher-dimensional ambient space. For this reason we propose a follow-on step after spectral embedding, to recover node representations in their intrinsic rather than ambient dimension, proving uniform consistency under a low-rank, inhomogeneous random graph model. Our method naturally generalizes bipartite spectral embedding, in which node representations are obtained by singular value decomposition of the biadjacency or bi-Laplacian matrix.'
-publication: [arXiv preprint](https://arxiv.org/abs/2202.03945)
+publishDate: '2022-07-17T16:23:37.630274Z'
+publication_types:
+- '2'
+abstract: 'This paper concerns the statistical analysis of a weighted graph through spectral embedding. Under a latent position model in which the expected adjacency matrix has low rank, we prove uniform consistency and a central limit theorem for the embedded nodes, treated as latent position estimates. In the special case of a weighted stochastic block model, this result implies that the embedding follows a Gaussian mixture model with each component representing a community. We exploit this to formally evaluate different weight representations of the graph using Chernoff information. For example, in a network anomaly detection problem where we observe a p-value on each edge, we recommend against directly embedding the matrix of p-values, and instead using threshold or log p-values, depending on network sparsity and signal strength.'
+publication: '[Accepted for Journal of the American Statistical Association](https://arxiv.org/abs/1910.05534)'
 ---
