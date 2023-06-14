@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spectral embedding of weighted graphs
+title: Spectral embedding and the latent geometry of multipartite networks
 subtitle: ''
 summary: ''
 authors:
+- Alex Modell
 - Ian Gallagher
-- Andrew Jones
-- Anna Bertiger
-- Carey Priebe
+- Joshua Cape
 - Patrick Rubin-Delanchy
 tags: []
 categories: []
