@@ -1,17 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spectral embedding and the latent geometry of multipartite networks
+title: 'Intensity profile projection: a framework for continuous-time representation learning for dynamic networks'
 subtitle: ''
 summary: ''
 authors:
 - Alex Modell
 - Ian Gallagher
-- Joshua Cape
+- Emma Ceccherini
+- Nick Whiteley
 - Patrick Rubin-Delanchy
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2023-01-01'
 lastmod: 2022-07-17T17:23:37+01:00
 featured: false
 draft: false
