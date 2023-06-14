@@ -7,7 +7,8 @@ summary: ''
 authors:
 - Alexander Modell
 - Ian Gallagher
-- Joshua Cape
+- Emma Ceccherini
+- Nick Whiteley
 - Patrick Rubin-Delanchy
 tags: []
 categories: []
