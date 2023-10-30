@@ -36,6 +36,8 @@ design:
   columns: '2'
 ---
 
+NUMBATs Seminar, Melbourne, Australia, September 2023. Adjacency spectral embedding beyond unweighted, undirected networks.
+
 Imperial Statistics Seminar, London, UK, June 2023. [Adjacency spectral embedding beyond unweighted, undirected networks](https://www.imperial.ac.uk/events/161848/tom-barrett-and-ian-gallagher/).
 
 Mathematical and Statistical Aspects of Security and Cybersecurity, Bristol, UK, May 2023. Spectral graph embedding for computer networks.
