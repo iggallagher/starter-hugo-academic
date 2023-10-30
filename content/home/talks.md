@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 
-Neural Information Processing Systems (NeurIPS 2023), New Orleans, USA, December 2023. [Intensity Profile Projection: A Framework for Continuous-Time Representation Learning for Dynamic Networks](https://nips.cc/virtual/2023/poster/71504).
+Neural Information Processing Systems (NeurIPS 2023), New Orleans, USA, December 2023. [Intensity profile projection: a framework for continuous-time representation learning for dynamic networks](https://nips.cc/virtual/2023/poster/71504).
 
 NUMBATs Seminar, Melbourne, Australia, September 2023. Adjacency spectral embedding beyond unweighted, undirected networks.
 
