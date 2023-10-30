@@ -36,9 +36,9 @@ design:
   columns: '2'
 ---
 
-NUMBATs Seminar, Melbourne, Australia, September 2023. Adjacency spectral embedding beyond unweighted, undirected networks.
+Neural Information Processing Systems (NeurIPS 2023), New Orleans, USA, December 2023. [Intensity Profile Projection: A Framework for Continuous-Time Representation Learning for Dynamic Networks](https://nips.cc/virtual/2023/poster/71504).
 
-Imperial Statistics Seminar, London, UK, June 2023. [Adjacency spectral embedding beyond unweighted, undirected networks](https://www.imperial.ac.uk/events/161848/tom-barrett-and-ian-gallagher/).
+NUMBATs Seminar, Melbourne, Australia, September 2023. Adjacency spectral embedding beyond unweighted, undirected networks.
 
 Mathematical and Statistical Aspects of Security and Cybersecurity, Bristol, UK, May 2023. Spectral graph embedding for computer networks.
 
