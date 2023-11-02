@@ -68,4 +68,4 @@ I am a Data Science Research Fellow at the [Heilbronn Institute for Mathematical
 My research interests include using graph embeddings to find interesting structure in real-world networks.
 
 Current PhD students:
-    - Emma Ceccherini
+* Emma Ceccherini
